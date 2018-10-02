@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alpha-Numeric-String</string>
+    <string name="title_uuid">UUID</string>
+    <string name="title_random">Random</string>
+    <string name="title_method1">Method1</string>
+</resources>
